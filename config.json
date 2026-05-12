@@ -86,6 +86,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-data-structures",
+      "title": "Python Data Structures",
+      "description": "Master lists, dictionaries, sets, and tuples by building a student record management system.",
+      "path": "assignments/python-data-structures",
+      "dueDate": "2026-05-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
