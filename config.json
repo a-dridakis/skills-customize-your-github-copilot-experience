@@ -100,6 +100,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algorithm-challenge-lab",
+      "title": "Algorithm Challenge Lab",
+      "description": "Advanced algorithm problem-solving with search, sorting, and runtime analysis in Python.",
+      "path": "assignments/algorithm-challenge-lab",
+      "dueDate": "2026-05-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
